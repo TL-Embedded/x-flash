@@ -1,5 +1,5 @@
 {
-    "firmware": "./firmware/composite.hex",
+    "firmware": "./firmware/firmware.hex",
     "target": "target/nordic/nrf52.cfg",
     "interface": "interface/stlink.cfg"
 }
